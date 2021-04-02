@@ -1,0 +1,86 @@
+body{
+    display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
+
+#info-green{
+    color: #64B851;
+    background: #F2FAF0;
+border-radius: 22px;
+border: none;
+outline: none;
+font-size: 12px;
+width: 184px;
+    Height:32px;
+}
+
+#info-red{
+color: #EB4B51;
+background: #FAF0F0;
+border-radius: 22px;
+border: none;
+outline: none;
+font-size: 12px;
+Weight:249px;
+Height: 32px;
+}
+#money-date{
+    text-decoration: none;
+}
+#money{
+color: #EB4B51;
+text-decoration: none;
+}
+#choise{
+    border-radius: 6px;
+   width: 268px;
+    Height: 44px;
+    background: #FAC62D;
+    border: none;
+outline: none;
+font-size: 14px;
+}
+.main{
+    width: 1200px;
+    height: auto;
+    background: #FFFFFF;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.main-about-position{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.main-info{
+    display: flex;
+  align-items: center;
+}
+.text-bold{
+    font-weight: 900;
+}
+.text-small{
+    font-weight: 100;
+    color:#989691;
+}
+.how-much{
+    font-size: 24px;
+    font-weight: 900;
+}
+.border-one{
+    width: 1px;
+    height: 200px;
+    border: 1px solid  #F0EEEB;
+    background: #F0EEEB;
+    margin-right: 10%;
+}
+.main-img{
+    width: 128px;
+    height: 231px;
+}
