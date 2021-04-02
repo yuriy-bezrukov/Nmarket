@@ -1,0 +1,108 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.all-button{
+    background: #FAC62D;
+    border-radius: 6px;
+    border: none;
+    font-size: 14px;
+    outline: none;
+}
+p{
+color: #989691;
+font-weight: 100;
+}
+
+
+.main-abouth-size{
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+    justify-content: space-around;
+    
+}
+/* Кнопки строка */
+.main-header{
+    display: flex;
+    justify-content: start;
+    font-size: 48px;
+    margin-bottom: 49px;
+    margin-top: 100px;
+}
+.mian-header-primary{
+    margin-bottom: 25px;
+
+}
+.text-english{
+    color:  #CCCAC5;
+    padding-left: 24px;
+
+}
+
+/* позиционирование */
+.main-columns{
+    display: flex;
+   justify-content: start;
+   align-items: flex-start;
+}
+.first-column{
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+    justify-content: space-around;
+    margin-right: 40px;
+}
+
+.two-column{
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+    justify-content: space-around;
+    margin-right: 40px;
+}
+
+.three-column{
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+    justify-content: space-around; 
+    margin-right: 40px;
+}
+/* Все что связано с кнопками */
+.main-button-large{
+    width: 124px;
+    height: 44px;
+   padding: 12px;
+    line-height: 20px;
+    margin-bottom:56px;
+}
+.main-button-medium{
+    padding: 8px;
+    
+    width: 108px;
+    height: 36px;
+    margin-bottom:56px;
+}
+.main-button-small{
+    width: 100px;
+    height: 28px;
+    padding: 4px;
+    
+}
+
+.change:hover{
+    background: #F0B505;
+    outline: none;
+}
+.actual:active{
+    background: #E1AB08;
+    outline: none;
+}
+
+ /* вторая страница */
+ 
+
+
